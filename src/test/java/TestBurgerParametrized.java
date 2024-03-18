@@ -11,7 +11,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-
+// Данный класс содержит параметризованные проверки для класса Burger приложения Stellar Burger
 @RunWith(Parameterized.class)
 public class TestBurgerParametrized {
 

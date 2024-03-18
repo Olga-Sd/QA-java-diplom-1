@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-// Данный класс содержит тесты для класса Bun
+// Данный класс содержит тесты для класса Bun для приложения Stellar Burger
 public class TestBun {
 
     Bun bun;
